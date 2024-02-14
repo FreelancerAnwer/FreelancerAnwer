@@ -226,14 +226,15 @@ Note: Feel to message me if you need any kind of website design or
 - 
 
 ### ☕ Connect with me!
-<style>
+
+
 <a href="https://www.facebook.com/FreelancerAnwer1" class="Freelancer-Anwer">Facebook</a>
 <a href="https://www.linkedin.com/in/freelanceranwer/" class="Freelancer-Anwer">Linkedin</a>
 <a href="https://github.com/FreelancerAnwer" class="Freelancer-Anwer">Github</a>
 <a href="https://www.twitter.com/AnwerHossan1 " class="Freelancer-Anwer">Twitter</a>
 <a href="https://www.youtube.com/@FreelancerAnwer" class="Freelancer-Anwer">Youtube</a>
 
-  .Freelancer-Anwer {
+ <style> .Freelancer-Anwer {
   background-color: #BFE943;
   border: 2px solid #BFE943;
   border-radius: 10px;
