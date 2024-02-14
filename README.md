@@ -226,9 +226,24 @@ Note: Feel to message me if you need any kind of website design or
 - 
 
 ### ☕ Connect with me!
-<p>Facebook <a href="[https://www.example.com](https://www.facebook.com/FreelancerAnwer1/
-)">Example Website</a>.</p>
 
+
+<a href="https://www.facebook.com/FreelancerAnwer1" class="Freelancer-Anwer">Facebook</a>
+
+<style>
+.Freelancer-Anwer {
+  background-color: #4CAF50;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+</style>
 ### 📧 For Business Inquiries
 
 ✅ ► mail.anwerhossan@gmail.com
