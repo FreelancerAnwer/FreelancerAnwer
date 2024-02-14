@@ -232,9 +232,10 @@ Note: Feel to message me if you need any kind of website design or
 
 <style>
 .Freelancer-Anwer {
-  background-color: #4CAF50;
-  border: none;
-  color: white;
+  background-color: #BFE943;
+  border: 2px solid #BFE943;
+  border-radius: 10px;
+  color: 001436;
   padding: 15px 32px;
   text-align: center;
   text-decoration: none;
