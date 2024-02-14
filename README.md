@@ -33,20 +33,30 @@ Note: Feel to message me if you need any kind of website design or
 ### 𝗪𝗼𝗿𝗱𝗽𝗿𝗲𝘀𝘀 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁
 
 ✅ WordPress Theme & Plugin Development
+
 ✅ WordPress Website Design, Full Stack Development, Web Design
+
 ✅ Fully Responsive (Cross-browser/platform) and Mobile-Friendly
+
 ✅ WooCommerce Theme & Plugin Development
+
 ✅ WordPress Multilanguage Using WPML and Polylang
 
 ### 𝗪𝗼𝗿𝗱𝗽𝗿𝗲𝘀𝘀 𝗖𝘂𝘀𝘁𝗼𝗺𝗶𝘇𝗮𝘁𝗶𝗼𝗻
 
 ✅ Theme installation and customization
+
 ✅ Custom Designed Wordpress Themes
+
 ✅ Elementor PRO + Hello Elementor Theme Expert
+
 ✅ Astra - Divi - Blocksy - Bricks Expert
+
 ✅ Premium Theme Customization
 ✅ WordPress Plugin Installation | Customization
+
 ✅ WooCommerce customization
+
 ✅Customized Content.
 
 ### 𝗣𝗶𝘅𝗲𝗹 𝗣𝗲𝗿𝗳𝗲𝗰𝘁 𝗱𝗲𝘀𝗶𝗴𝗻
