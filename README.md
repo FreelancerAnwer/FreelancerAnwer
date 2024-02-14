@@ -1,30 +1,8 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title> Expert WordPress Developer: Woo-Commerce | Elementor | Divi | Bricks SEO | Expert
-</title>
-</head>
-
-<style>
-    .Freelancer-Anwer {
-  border-radius: 10px; /* Adjust the value to change the amount of rounding */
-  padding: 10px 20px; /* Optional: Add padding to the button for better appearance */
-  background-color: #BFE943; /* Example background color */
-  color: 001436; /* Text color */
-  border: 2px solid #BFE943; /* Border with a solid red color */
-  cursor: pointer;
-  outline: none; /* Remove the outline when the button is clicked */
-}
-</style>
-
-</html>
-
-  
 ![Expert WordPress Developer: Woo-Commerce | Elementor | Divi | Bricks SEO | Expert](https://media.licdn.com/dms/image/D5616AQFYhoIVqxrdmg/profile-displaybackgroundimage-shrink_350_1400/0/1707668289360?e=1713398400&v=beta&t=2plWSh0GBGDAApkH-B7sQujULnoQ53KT1uQ-vQEWE9A)
 
-# Hi, I A'm Anwer Hossan 👋
+# ![image](https://github.com/FreelancerAnwer/FreelancerAnwer/assets/159942321/1e2d005d-54be-49c7-bf91-2e4de4ddd038) Hey! Nice to see you.
+
+##Expert WordPress Developer: Woo-Commerce | Elementor | Divi | Bricks SEO | Expert
 
 ## 🚀 About Me
 
@@ -255,6 +233,20 @@ Note: Feel to message me if you need any kind of website design or
 <a href="https://github.com/FreelancerAnwer" class="Freelancer-Anwer">Github</a>
 <a href="https://www.twitter.com/AnwerHossan1 " class="Freelancer-Anwer">Twitter</a>
 <a href="https://www.youtube.com/@FreelancerAnwer" class="Freelancer-Anwer">Youtube</a>
+<style>
+.Freelancer-Anwer {
+  background-color: BFE943;
+  border: 2px;
+  color: BFE943;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 20px;
+  cursor: pointer;
+}
+</style>
 
 ### 📧 For Business Inquiries
 
