@@ -242,18 +242,13 @@ Note: Feel to message me if you need any kind of website design or
 
  <style> 
      .Freelancer-Anwer {
-  text-decoration: none;
-font-size: 16px;
-color: 001436;
-  background-color: #BFE943;
-  border: 2px solid #BFE943;
-  border-radius: 10px;
-  padding: 15px 32px;
-margin-right: 50px; 
-    text-align: center;
-  display: inline-block;
+  border-radius: 10px; /* Adjust the value to change the amount of rounding */
+  padding: 10px 20px; /* Optional: Add padding to the button for better appearance */
+  background-color: #BFE943; /* Example background color */
+  color: 001436; /* Text color */
+  border: 2px solid #BFE943; /* Border with a solid red color */
   cursor: pointer;
-  outline: none;!important;
+  outline: none; /* Remove the outline when the button is clicked */
 }
   </style>
   
