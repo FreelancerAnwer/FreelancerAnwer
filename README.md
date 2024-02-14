@@ -42,6 +42,7 @@ Note: Feel to message me if you need any kind of website design or
 
 ✅ WordPress Multilanguage Using WPML and Polylang
 
+
 ### 𝗪𝗼𝗿𝗱𝗽𝗿𝗲𝘀𝘀 𝗖𝘂𝘀𝘁𝗼𝗺𝗶𝘇𝗮𝘁𝗶𝗼𝗻
 
 ✅ Theme installation and customization
@@ -53,86 +54,155 @@ Note: Feel to message me if you need any kind of website design or
 ✅ Astra - Divi - Blocksy - Bricks Expert
 
 ✅ Premium Theme Customization
+
 ✅ WordPress Plugin Installation | Customization
 
 ✅ WooCommerce customization
 
 ✅Customized Content.
 
+
 ### 𝗣𝗶𝘅𝗲𝗹 𝗣𝗲𝗿𝗳𝗲𝗰𝘁 𝗱𝗲𝘀𝗶𝗴𝗻
+
 ✅Old host to another new host 
+
 ✅ Figma to Wordpress Conversion
+
 ✅Figma to Elementor 
+
 ✅Figma to Divi
+
 ✅ PSD to WordPress Conversion
+
 ✅ PSD to Elementor 
+
 ✅ PSD to Divi
+
 ✅XD to Wordpress Conversion
+
 ✅XD to Elementor
+
 ✅XD to Divi
+
 ✅ HML5/CSS3 to WordPress Theme
+
 ✅ WordPress Landing Page Design
 
+
 ### 𝗪𝗼𝗿𝗱𝗣𝗿𝗲𝘀𝘀 𝗦𝗘𝗢
+
 ✅ Rank math SEO plugin
+
 ✅ Yoast SEO plugin
+
 ✅ All-in-One SEO plugin
+
 ✅ Yoast SEO settings configure
+
 ✅ Complete On Page Optimization
+
 ✅ WordPress Technical SEO
+
 ✅ WordPress Image optimization
+
 ✅ On-Page SEO
+
 ✅ Off-Page SEO
+
 ✅ Local SEO
+
 ✅ Optimize SEO image - title - headings & meta description
 
+
 ### 𝗪𝗼𝗿𝗱𝗣𝗿𝗲𝘀𝘀 𝗦𝗲𝗰𝘂𝗿𝗶𝘁𝘆
+
 ✅ WordPress issue or error fixing
+
 ✅ WordPress maintenance
+
 ✅ WordPress Plugin error fixing
+
 ✅ WooCommerce single page error fixing
+
 ✅ Wordpress SSL Installation
+
 ✅ Wordpress Malware/Virus Removal
+
 ✅ Wordpreess Backups and Restore
+
 ✅ WordPress Server migration
+
 ✅Fix errors/bugs.
+
 ✅Hosting issue fix
+
 ✅AIOSEO all solutions
 
+
 ### 𝗪𝗼𝗿𝗱𝗣𝗿𝗲𝘀𝘀 𝗣𝗮𝗴𝗲 𝗦𝗽𝗲𝗲𝗱 𝗢𝗽𝘁𝗶𝗺𝗶𝘇𝗮𝘁𝗶𝗼𝗻 𝗘𝘅𝗽𝗲𝗿𝘁:
+
 ✅ WordPress Page Speed Increasing
+
 ✅ WordPress Page Speed Increasing
+
 ✅ Specify image dimensions
+
 ✅ Enable gzip compression
+
 ✅ Leverage browser caching
+
 ✅ Minify CSS
+
 ✅ Minify JavaScript
+
 ✅ Avoid bad requests
+
 ✅ Serve scaled images
+
 ✅ Avoid landing page redirects
+
 ✅ Minify HTML
+
 ✅ Wp Rocket Setup
+
 ✅ CDN Setup
+
 ✅ Specify a cache validator
+
 ✅ Inline small JavaScript and more
+
 ✅ W3 Total Cache WordPress plugin
 
 #### Tools: PageSpeed Insights, GTmetrix, Pingdom, etc
 
+
 ### 𝗪𝗼𝗿𝗱𝗽𝗿𝗲𝘀𝘀 𝗠𝗶𝗴𝗿𝗮𝘁𝗶𝗼𝗻 𝗢𝗿 𝗪𝗲𝗯𝘀𝗶𝘁𝗲 𝗥𝗲𝗱𝗲𝘀𝗶𝗴𝗻
+
 ✅Redesign/Rebuild any web page or website.
+
 Convert/Clone, Copy or Duplicate any site to WordPress
 
+
 ### 𝗪𝗼𝗿𝗱𝗽𝗿𝗲𝘀𝘀 Features Include
+
 ✅User Friendly Admin panel.
+
 ✅Color Scheme of your choice.
+
 ✅ Setup Payment Gateway (Visa, Master, PayPal, Klarna, Square, Stripe)
+
 ✅ Social Media Integration
+
 ✅ Mailchimp Integration
+
 ✅ SEO friendly coding
+
 ✅Extra features as per demand.
+
 ✅WordPress Child Theme
+
 ✅100% customer satisfaction with unlimited revisions.
+
 
 ### 𝐑𝐞𝐬𝐩𝐞𝐜𝐭 𝐃𝐞𝐚𝐝𝐥𝐢𝐧𝐞𝐬
 
@@ -152,10 +222,17 @@ Note: Feel to message me if you need any kind of website design or
 - 💬 Ask me about So you want to know more about me and about my services. Right? 
 - 📫 How to reach me: If any of that is what you need, message me! 
 - 😄 Pronouns: Here you will find everything you need for your website. 
-- ⚡ Fun fact: I always provide full documentation after completing a project, so you can update anything from the dashboard by yourself very easily 
+- ⚡ Fun fact: I always provide full documentation after completing a project, so you can update anything from the dashboard by yourself very easily
+- 
 
+### ☕ Connect with me!
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/FreelancerAnwer)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/freelanceranwer//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/FreelancerAnwer1/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/FreelancerAnwer/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/FreelancerAnwer)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/@FreelancerAnwer)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/FreelancerAnwer)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://github.com/FreelancerAnwer)  
+
+
+### 📧 For Business Inquiries
+
+✅ ► mail.anwerhossan@gmail.com
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
