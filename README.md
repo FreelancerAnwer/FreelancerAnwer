@@ -3,12 +3,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Freelancer Anwer</title>
-</head>
-<body>
-   
-</body>
-</html>
 
 ![Expert WordPress Developer: Woo-Commerce | Elementor | Divi | Bricks SEO | Expert](https://media.licdn.com/dms/image/D5616AQFYhoIVqxrdmg/profile-displaybackgroundimage-shrink_350_1400/0/1707668289360?e=1713398400&v=beta&t=2plWSh0GBGDAApkH-B7sQujULnoQ53KT1uQ-vQEWE9A)
 
@@ -255,8 +249,8 @@ color: 001436;
   border: 2px solid #BFE943;
   border-radius: 10px;
   padding: 15px 32px;
-margin-right: 50px; !important
- text-align: center;
+margin-right: 50px; 
+    text-align: center;
   display: inline-block;
   cursor: pointer;
   outline: none;!important;
