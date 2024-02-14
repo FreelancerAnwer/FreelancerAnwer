@@ -23,7 +23,9 @@ P.S. When you work with me your satisfaction is 100% guaranteed.
 
 Note: Feel to message me if you need any kind of website design or
 
-Skills: (WordPress Development |  Elementor / Elementor PRO | Divi | Bricks | WordPress Theme | Hello Elementor Theme | Astra Theme | Blocksy Theme | Landing Page Design/ Front-end Web Development | Custom API integration | MySQL | HTML | CSS | Bootstrap | JavaScript | API | jQuery | and PHP)
+#### 👨‍💻 Skills & Experiance:
+
+(WordPress Development |  Elementor / Elementor PRO | Divi | Bricks | WordPress Theme | Hello Elementor Theme | Astra Theme | Blocksy Theme | Landing Page Design/ Front-end Web Development | Custom API integration | MySQL | HTML | CSS | Bootstrap | JavaScript | API | jQuery | and PHP)
 
 - 🔭 I’m currently working on Upwork 
 - 🌱 I’m currently learning JavaScript 
