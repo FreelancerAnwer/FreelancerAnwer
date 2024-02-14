@@ -1,6 +1,6 @@
 ![Expert WordPress Developer: Woo-Commerce | Elementor | Divi | Bricks SEO | Expert](https://media.licdn.com/dms/image/D5616AQFYhoIVqxrdmg/profile-displaybackgroundimage-shrink_350_1400/0/1707668289360?e=1713398400&v=beta&t=2plWSh0GBGDAApkH-B7sQujULnoQ53KT1uQ-vQEWE9A)
 
-![image](https://github.com/FreelancerAnwer/FreelancerAnwer/assets/159942321/1e2d005d-54be-49c7-bf91-2e4de4ddd038) Hey! Nice to see you.
+# Hey! Nice to see you 👋
 
 ##Expert WordPress Developer: Woo-Commerce | Elementor | Divi | Bricks SEO | Expert
 
