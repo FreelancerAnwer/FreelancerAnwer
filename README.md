@@ -248,15 +248,15 @@ Note: Feel to message me if you need any kind of website design or
 
  <style> .Freelancer-Anwer {
   text-decoration: none;
-  color: 001436;
+font-size: 16px;
+color: 001436;
   background-color: #BFE943;
   border: 2px solid #BFE943;
   border-radius: 10px;
   padding: 15px 32px;
-  text-align: center;
+margin-right: 50px;
+ text-align: center;
   display: inline-block;
-  font-size: 16px;
-  margin-right: 30px;
   cursor: pointer;
   outline: none;
 }
