@@ -3,12 +3,35 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> Expert WordPress Developer: Woo-Commerce | Elementor | Divi | Bricks SEO | Expert
+</title>
+    <!-- Add any CSS or meta tags for SEO, etc., here -->
+</head>
+<body>
+    <header>
+        <!-- Add navigation links, logo, etc., here -->
+    </header>
+.Freelancer-Anwer {
+  border-radius: 10px; /* Adjust the value to change the amount of rounding */
+  padding: 10px 20px; /* Optional: Add padding to the button for better appearance */
+  background-color: #BFE943; /* Example background color */
+  color: 001436; /* Text color */
+  border: 2px solid #BFE943; /* Border with a solid red color */
+  cursor: pointer;
+  outline: none; /* Remove the outline when the button is clicked */
+}
 
+    <footer>
+
+        <!-- Add footer links, social media icons, etc., here -->
+    </footer>
+</body>
+</html>
+
+  
 ![Expert WordPress Developer: Woo-Commerce | Elementor | Divi | Bricks SEO | Expert](https://media.licdn.com/dms/image/D5616AQFYhoIVqxrdmg/profile-displaybackgroundimage-shrink_350_1400/0/1707668289360?e=1713398400&v=beta&t=2plWSh0GBGDAApkH-B7sQujULnoQ53KT1uQ-vQEWE9A)
 
-# Hi there 👋, I Am Anwer Hossan
-
-## ✅ Expert WordPress Developer: Woo-Commerce | Elementor | Divi | Bricks SEO | Expert
+# Hi, I A'm Anwer Hossan 👋
 
 ## 🚀 About Me
 
@@ -240,18 +263,6 @@ Note: Feel to message me if you need any kind of website design or
 <a href="https://www.twitter.com/AnwerHossan1 " class="Freelancer-Anwer">Twitter</a>
 <a href="https://www.youtube.com/@FreelancerAnwer" class="Freelancer-Anwer">Youtube</a>
 
- <style> 
-     .Freelancer-Anwer {
-  border-radius: 10px; /* Adjust the value to change the amount of rounding */
-  padding: 10px 20px; /* Optional: Add padding to the button for better appearance */
-  background-color: #BFE943; /* Example background color */
-  color: 001436; /* Text color */
-  border: 2px solid #BFE943; /* Border with a solid red color */
-  cursor: pointer;
-  outline: none; /* Remove the outline when the button is clicked */
-}
-  </style>
-  
 ### 📧 For Business Inquiries
 
 ✅ ► mail.anwerhossan@gmail.com
