@@ -246,7 +246,8 @@ Note: Feel to message me if you need any kind of website design or
 <a href="https://www.twitter.com/AnwerHossan1 " class="Freelancer-Anwer">Twitter</a>
 <a href="https://www.youtube.com/@FreelancerAnwer" class="Freelancer-Anwer">Youtube</a>
 
- <style> .Freelancer-Anwer {
+ <style> 
+     .Freelancer-Anwer {
   text-decoration: none;
 font-size: 16px;
 color: 001436;
@@ -254,13 +255,14 @@ color: 001436;
   border: 2px solid #BFE943;
   border-radius: 10px;
   padding: 15px 32px;
-margin-right: 50px;
+margin-right: 50px; !important
  text-align: center;
   display: inline-block;
   cursor: pointer;
-  outline: none;
+  outline: none;!important;
 }
   </style>
+  
 ### 📧 For Business Inquiries
 
 ✅ ► mail.anwerhossan@gmail.com
