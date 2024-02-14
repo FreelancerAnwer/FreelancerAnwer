@@ -247,7 +247,7 @@ Note: Feel to message me if you need any kind of website design or
   cursor: pointer;
   outline: none;
 }
-  
+  </style>
 ### 📧 For Business Inquiries
 
 ✅ ► mail.anwerhossan@gmail.com
