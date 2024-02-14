@@ -5,13 +5,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title> Expert WordPress Developer: Woo-Commerce | Elementor | Divi | Bricks SEO | Expert
 </title>
-    <!-- Add any CSS or meta tags for SEO, etc., here -->
 </head>
-<body>
-    <header>
-        <!-- Add navigation links, logo, etc., here -->
-    </header>
-.Freelancer-Anwer {
+
+<style>
+    .Freelancer-Anwer {
   border-radius: 10px; /* Adjust the value to change the amount of rounding */
   padding: 10px 20px; /* Optional: Add padding to the button for better appearance */
   background-color: #BFE943; /* Example background color */
@@ -20,12 +17,8 @@
   cursor: pointer;
   outline: none; /* Remove the outline when the button is clicked */
 }
+</style>
 
-    <footer>
-
-        <!-- Add footer links, social media icons, etc., here -->
-    </footer>
-</body>
 </html>
 
   
