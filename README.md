@@ -227,10 +227,12 @@ Note: Feel to message me if you need any kind of website design or
 
 ### ☕ Connect with me!
 
-
 <a href="https://www.facebook.com/FreelancerAnwer1" class="Freelancer-Anwer">Facebook</a>
+<a href="https://www.linkedin.com/in/freelanceranwer/" class="Freelancer-Anwer">Linkedin</a>
+<style><a href="https://github.com/FreelancerAnwer" class="Freelancer-Anwer">Github</a>
+<a href="https://www.twitter.com/AnwerHossan1 " class="Freelancer-Anwer">Twitter</a>
+<a href="https://www.youtube.com/@FreelancerAnwer" class="Freelancer-Anwer">Youtube</a>
 
-<style>
 .Freelancer-Anwer {
   background-color: #BFE943;
   border: 2px solid #BFE943;
@@ -243,8 +245,9 @@ Note: Feel to message me if you need any kind of website design or
   font-size: 16px;
   margin: 4px 2px;
   cursor: pointer;
+  outline: none;
 }
-</style>
+  
 ### 📧 For Business Inquiries
 
 ✅ ► mail.anwerhossan@gmail.com
