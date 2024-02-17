@@ -2,7 +2,7 @@
 
 # Hey! Nice to see you 👋
 
-## Expert WordPress Developer: Woo-Commerce | Elementor | Divi | Bricks SEO | Expert
+## Expert WordPress Developer: Woo-Commerce | Elementor | Divi | Bricks | SEO | Expert
 
 ## 🚀 About Me
 
